@@ -8,5 +8,5 @@
 - import: codeql-suites/go-code-scanning.qls
   from: codeql-go
 - exclude:
-  id:
-    - go/clear-text-logging
+    id:
+    - java/spring-disabled-csrf-protection
